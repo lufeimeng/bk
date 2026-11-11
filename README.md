@@ -1,9 +1,9 @@
-# 成人内容百科 V2
+# 内容百科 V3
 
 原生 HTML / CSS / JavaScript 的响应式品牌与作品资料导航首页。视觉方向采用深墨蓝、暖纸白、橙红与荧光浅绿的编辑部 / 数字档案馆风格。
 
 ## 文件
-- `index.html`：页面结构、SEO 元信息、WebSite JSON-LD
+- `index.html`：页面结构、WebSite JSON-LD
 - `styles.css`：响应式样式
 - `script.js`：分类、关键词、别名/编号搜索、核验状态筛选、移动导航
 - `assets/logo.png`：品牌 Logo（若不存在，请放入自己的图片并命名为 logo.png）
@@ -24,7 +24,7 @@
 - `/category/short-drama/`、`/category/anime/`、`/category/comics/`、`/category/novels/`
 - `/brand/{slug}/`、`/work/{slug}/`、`/topics/{slug}/`
 
-不要只依赖首页 JavaScript 搜索结果承担 SEO。重要分类和词条应有独立 URL。
+不要只依赖首页 JavaScript 搜索结果承担。重要分类和词条应有独立 URL。
 
 ## 内容边界
 本站仅为符合所在地法律规定的成年人提供品牌与作品资料索引，不托管、不播放、不下载、不交易成人内容，也不提供绕过年龄或访问限制的服务。上线前应审查所在地法律、版权、隐私及年龄访问要求。
